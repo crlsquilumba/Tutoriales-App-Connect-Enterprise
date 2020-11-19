@@ -17,3 +17,8 @@ Cuando se inicie el asistente, proporcione un nombre de aplicación como Example
 
 ![Optional Text](../master/Introducción a ACEv11 Creación de un flujo de mensajes sencillo/imagen1.png)
 
+
+![Preview](https://github.com/crlsquilumba/Tutoriales-App-Connect-Enterprise/blob/main/Introducci%C3%B3n%20a%20ACEv11%20Creaci%C3%B3n%20de%20un%20flujo%20de%20mensajes%20sencillo/imagen1.png)
+
+
+https://github.com/crlsquilumba/Tutoriales-App-Connect-Enterprise/blob/main/Introducci%C3%B3n%20a%20ACEv11%20Creaci%C3%B3n%20de%20un%20flujo%20de%20mensajes%20sencillo/imagen1.png
