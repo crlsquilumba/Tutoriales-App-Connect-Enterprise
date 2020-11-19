@@ -14,3 +14,6 @@ Los flujos de mensajes se crean en el kit de herramientas mediante un editor de 
 Como es común con las herramientas basadas en Eclipse, hay varios atajos útiles y formas alternativas para hacer la navegación lo más fácil posible; pero todas estas opciones lo llevarán al mismo asistente de Aplicación nueva. Por ejemplo, si acaba de lanzar un nuevo espacio de trabajo por primera vez, verá una página de Inicio rápido con un enlace para Comenzar creando una aplicación. Independientemente de su punto de partida, podrá utilizar los menús en la parte superior del Kit de herramientas y seleccionar Archivo - Nuevo - Aplicación
 Cuando se inicie el asistente, proporcione un nombre de aplicación como ExampleApplication y haga clic en Finalizar.
 
+
+![Optional Text](../master/Introducción a ACEv11 Creación de un flujo de mensajes sencillo/imagen1.png)
+
