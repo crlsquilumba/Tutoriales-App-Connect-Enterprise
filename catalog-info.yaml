@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Tutoriales-App-Connect-Enterprise
+  description: Tutoriales App Connect Enterprise
+  annotations:
+    github.com/project-slug: crlsquilumba/Tutoriales-App-Connect-Enterprise
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
